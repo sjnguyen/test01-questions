@@ -1,0 +1,30 @@
+1. allows multiple people & show up to date
+2. frictionless context switching & role based codelines
+3. to show your name for repos, branches, or files
+4. version control systems 
+5.subversion 
+6.clone
+7. to include a message on the terminal or shows ssh code
+8.commit
+9.conflict
+10.fetch
+11.origin or master
+12. git branch "new branch name"
+13. git checkout "branch name"
+14. git fork
+15. git merge
+16.git pull
+17.git push
+18.git locate
+19.repository
+20.stage
+21.git tag
+22.git init
+23.git log
+24.git status
+25.git add .
+26.git commit
+27. 1)untracked 2) unmodified 3) modified 4) staged
+
+
+
